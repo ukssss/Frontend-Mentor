@@ -23,7 +23,7 @@ export default function Home() {
             <code className={styles.code}>src/pages/index.tsx</code>
           </p>
           <h1>{sayHello()}</h1>
-          <Button>Hello World</Button>
+          <Button>Bye World</Button>
           <div>
             <a
               href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
